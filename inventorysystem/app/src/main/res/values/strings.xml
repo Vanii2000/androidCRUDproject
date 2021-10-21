@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">inventorysystem</string>
+    <string name="mainTitle">Board Game Shop Inventory System</string>ű
+    <string name="createButton">Create New Game</string>
+    <string name="deleteButton">Delete</string>
+    <string name="createEditTitle">New Board game</string>
+    <string name="boardGameTitle">Title</string>
+    <string name="boardGameCategory">Category</string>
+    <string name="boardGamePlayingTime">Playing Time</string>
+    <string name="boardGameMaxNumOfPlayers">Num. of players</string>
+    <string name="boardGamePrice">Price</string>
+    <string name="boardGamePriceFT">FT</string>
+    <string name="boardGamePlayingTimeMin">min</string>
+    <string name="boardGameQuantity">Quantity</string>
+    <string name="boardGameIsSold">Is the game sold?</string>
+    <string name="saveButton">Save</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="productDetails">Board Game</string>
+    <string name="totalRevenue">Total Revenue of the Game</string>
+    <string name="updateButton">Update</string>
+    <string name="backToMainButton">Back To Main Menu</string>
+    <string name="expectedRevenue">Expected Revenue: </string>
+
+
+
+</resources>
